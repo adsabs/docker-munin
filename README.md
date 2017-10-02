@@ -6,3 +6,5 @@ Combining Munin and Docker
 Munin: http://munin-monitoring.org/
 
 Docker: https://www.docker.com/
+
+https://www.apache.org/licenses/GPL-compatibility.html
